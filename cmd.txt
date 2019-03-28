@@ -1,0 +1,6 @@
+;;;;;;
+pwd;;;
+;;pwd;;
+pwd;pwd;pwd;
+quit;
+pwd
